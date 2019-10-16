@@ -66,9 +66,10 @@ See code for all available configurations.
 | Supermicro X10SLL-F               | `<nixos-hardware/supermicro/x10sll-f>`             |
 | [Toshiba Chromebook 2 `swanky`][] | `<nixos-hardware/toshiba/swanky>`                  |
 
+
 [Acer Aspire 4810T]: acer/aspire/4810t
 [Apple MacBook Pro 10,1]: apple/macbook-pro/10-1
-[Dell XPS E7240][]: dell/e7240
+[Dell XPS E7240]: dell/e7240
 [Dell XPS 13 9360]: dell/xps/13-9360
 [Dell XPS 13 9370]: dell/xps/13-9370
 [Dell XPS 13 9380]: dell/xps/13-9380
